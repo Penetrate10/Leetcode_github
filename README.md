@@ -1,5 +1,5 @@
 # Leetcode_github
-Record the problem solving process on leetcode. 记录现阶段leetcode做题过程。
+Record the problem solving process on leetcode. 记录现阶段leetcode做过的一部分代表性较强的题。
 
 - 做题过程中学习了很多前辈的经验。代码的注释中大多为自己的浅薄理解，但当自己描述不清楚或太啰嗦的时候，也摘录了一些前辈博客、视频中更精彩的文字，在此表示感谢。
 - 如有小伙伴恰巧逛到这里发现了错误，欢迎留言指出。
