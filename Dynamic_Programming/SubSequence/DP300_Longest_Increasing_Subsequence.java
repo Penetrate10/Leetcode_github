@@ -1,10 +1,10 @@
-package Dynamic_Programming;
+package Dynamic_Programming.SubSequence;
 
 import java.util.Arrays;
 
 public class DP300_Longest_Increasing_Subsequence {
     /*
-    题目：最长递增子序列
+    题目：最长递增子序列 LIS
     方法：动态规划
     思路：
         0. 明确问题

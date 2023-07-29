@@ -1,4 +1,4 @@
-package Dynamic_Programming;
+package Dynamic_Programming.SubSequence;
 
 import java.util.Arrays;
 import java.util.Comparator;
